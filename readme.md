@@ -10,14 +10,9 @@
 				$("#center").center(); /* $("center") ID centering element. */
 			});
 		</script> /* Init Plugin */
-		
-*Setup*
-----------
 
 *Bug*
 ---------
 
 * If the element has focus is the text then it must define its size in PX.
 
-*Bug*
----------
